@@ -24,6 +24,7 @@ public class Method {
 		obj.Jauwad();
 		String r = "50" ;
 		System.out.println(obj.Rasel(25,25) +" = "+ r);
+		System.out.println();
 		
 		//obj.Rafiq(1, 2);
 		

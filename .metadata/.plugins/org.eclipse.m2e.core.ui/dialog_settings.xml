@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\Shadow\git\Batch21NewProject\src\test\java\com\encapsulations"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -43,11 +44,17 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="encap.poly"/>
+			<item value="com.rafiq"/>
+			<item value="com.rafiq.tx"/>
 			<item value="com.ny.login"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="GroutStudyEncapPoly"/>
+			<item value="Rafiq_Note"/>
+			<item value="Rafiq"/>
 			<item value="Global_Tek"/>
 		</list>
 		<list key="projectNameTemplate">
